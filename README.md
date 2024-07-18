@@ -34,9 +34,6 @@ I'm ColinSp12, a passionate computer programmer specializing in software and web
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 
-### 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ColinSp12&show_icons=true&theme=radical)
-
 ### 🏆 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ColinSp12&layout=compact&theme=radical)
 
