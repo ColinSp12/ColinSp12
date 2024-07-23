@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm ColinSp12, a passionate computer programmer specializing in software and web application development.
+I'm Colin Spetz, a passionate computer programmer specializing in software and web application development.
 
 ### 🔭 I’m currently working on
 - Enhancing my web development skills with modern frameworks
