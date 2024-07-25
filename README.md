@@ -11,10 +11,6 @@ Check out my [Portfolio](https://www.colinspetz.com)
 - Advanced JavaScript techniques
 - Machine Learning basics
 
-### 👯 I’m looking to collaborate on
-- Open source projects related to web development
-- Innovative software applications
-
 ### 🤔 I’m looking for help with
 - Improving my knowledge in machine learning
 - Best practices for software architecture
@@ -24,7 +20,7 @@ Check out my [Portfolio](https://www.colinspetz.com)
 - Software development in C++ and C#
 
 ### 📫 How to reach me
-- [Email](Colinspetz1@gmail.com)
+- [Email](https://Colinspetz1@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/colin-spetz/)
 
 ### 🚀 My Skills
