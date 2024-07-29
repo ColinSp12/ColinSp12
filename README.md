@@ -2,7 +2,7 @@
 
 I'm Colin Spetz, a passionate computer programmer specializing in software and web application development.
 
-Check out my portfolio here [Portfolio](https://www.colinspetz.com)
+Check out my [Portfolio](https://www.colinspetz.com) here 
 
 ### 🔭 I’m currently working on
 - Enhancing my web development skills with modern frameworks
