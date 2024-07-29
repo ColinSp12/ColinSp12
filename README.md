@@ -71,9 +71,9 @@ Check out my [Portfolio](https://www.colinspetz.com) here
   <a href="https://www.sfml-dev.org/" target="_blank" rel="noreferrer"> 
     <img src="https://www.sfml-dev.org/images/logo.png" alt="sfml" width="40" height="40"/> 
   </a> 
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" width="40" height="40"/> 
-  </a> 
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss" width="40" height="40"/> 
+</a>
   <a href="https://redux.js.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
   </a> 
