@@ -26,9 +26,6 @@ Check out my [Portfolio](https://www.colinspetz.com) here
   <a href="https://www.php.net/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
   </a> 
-  <a href="https://www.ibm.com/it-infrastructure/z/cobol" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cobol/cobol-original.svg" alt="cobol" width="40" height="40"/> 
-  </a> 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
   </a> 
