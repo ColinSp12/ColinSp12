@@ -4,6 +4,8 @@ Check out my [Portfolio](https://www.colinspetz.com) here
 - [Email](https://Colinspetz1@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/colin-spetz/)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ColinSp12&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
 ### 🚀 My Skills
 
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
@@ -33,9 +35,6 @@ Check out my [Portfolio](https://www.colinspetz.com) here
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ColinSp12&layout=compact&theme=radical)
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical)
-
-![GitHub Snake Animation](https://github.com/ColinSp12/ColinSp12/blob/output/github-contribution-grid-snake.svg)
-
 
 
 
