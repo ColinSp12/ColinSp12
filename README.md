@@ -32,10 +32,6 @@ Check out my [Portfolio](https://www.colinspetz.com) here
 ### 🏆 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ColinSp12&layout=compact&theme=radical)
 
-![Colin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ColinSp12&show_icons=true&theme=radical)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ColinSp12&theme=radical)](https://git.io/streak-stats)
-
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical)
 
 
