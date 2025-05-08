@@ -34,5 +34,8 @@ Check out my [Portfolio](https://www.colinspetz.com) here
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical)
 
+![GitHub Snake Animation](https://github.com/ColinSp12/ColinSp12/blob/output/github-contribution-grid-snake.svg)
+
+
 
 
